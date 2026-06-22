@@ -1,3 +1,4 @@
 public class Practice1 {
-    String name = "Main Branch"
+    String name = "Main  new Branch"
+            String baseurl= "prod.qa.com"
 }
